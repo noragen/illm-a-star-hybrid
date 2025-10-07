@@ -1,0 +1,6 @@
+requests>=2.31.0
+openai>=2.2.0
+langchain-ollama>=0.3.10
+torch>=2.8.0
+transformers>=4.57.0
+hf_xet>=1.1.10
